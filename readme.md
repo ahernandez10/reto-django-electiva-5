@@ -2,6 +2,7 @@ Para ejecutar el proyecto debes ejecutar en la raiz de la carpeta.
 ```
 python manage.py makemigrations
 python manage.py migrate
+python manage.py createsuperuser
 python manage.py runserver
 ```
 
